@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=IMDb-1st
+Comment=Search this movie or TV series on IMDb
+Exec=env IMDB_DEBUG=1 IMDB_CONFIRM=1 /home/titojff/.local/share/nemo/scripts/open_imdb1.py "%f"
+Icon-Name=web-browser
+Selection=any
+Extensions=mp4;mkv;avi;mov;wmv;flv;m4v
+Quote=double

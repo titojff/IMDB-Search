@@ -12,5 +12,6 @@ import subprocess
 from datetime import datetime
 
 
+
 View Debug Log
 cat ~/.cache/open_imdb.log
